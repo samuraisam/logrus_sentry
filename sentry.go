@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sirupsen/logrus"
+	"github.com/samuraisam/logrus"
 	"github.com/getsentry/raven-go"
 	"github.com/pkg/errors"
 )
