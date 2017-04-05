@@ -3,7 +3,7 @@ package logrus_sentry
 import (
 	"net/http"
 
-	"github.com/sirupsen/logrus"
+	"github.com/samuraisam/logrus"
 	"github.com/getsentry/raven-go"
 )
 
