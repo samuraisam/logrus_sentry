@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sirupsen/logrus"
+	"github.com/samuraisam/logrus"
 )
 
 func TestParallelLogging(t *testing.T) {
